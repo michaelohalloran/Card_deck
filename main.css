@@ -1,0 +1,14 @@
+body {
+	box-sizing: border-box;
+	background-color: #9ae0e0;
+	text-align: center;
+	font-size: 1.25em;
+}
+
+input {
+	margin: 15px;
+	padding: 20px;
+	font-size: 1.25em;
+	font-weight: bold;
+	text-align: center;
+}
